@@ -35,7 +35,7 @@ $$ -\bar{t}^2 + \bar{x}^2 = a^2 \quad \text{(tipo espaço $\Delta s^2 > 0$)} $$
 $$ -\bar{t}^2 + \bar{x}^2 = -b^2 \quad \text{(tipo tempo $\Delta s^2 < 0$)} $$
 
 <p align="center">
-  <img src="figura-1-10.gif" alt="Figura 1.10 do Schutz: Hipérboles Invariantes" width="300">
+  <img src="figura-1-10.gif" alt="Figura 1.10 do Schutz: Hipérboles Invariantes" width="500">
 </p>
 
 ## 3. Calibração dos Eixos de $\bar{O}$ usando Hipérboles
@@ -103,13 +103,13 @@ Por fim, uma propriedade importante das hipérboles para deduzir a dilatação d
 
 
 <p align="center">
-  <img src="figura-1-12.gif" alt="Figura 1.12 do Schutz: A Tangente à Hipérbole como Linha de Simultaneidade" width="700">
+  <img src="figura-1-12.gif" alt="Figura 1.12 do Schutz: A Tangente à Hipérbole como Linha de Simultaneidade" width="800">
 </p>
 
 
 
 <p align="center">
-  <img src="figura-1-8.gif" alt="Figura 1.8 do Schutz: Hipérboloides no Evento A" width="450">
+  <img src="figura-1-8-v2.gif" alt="Figura 1.8 do Schutz: Hipérboloides no Evento A" width="350">
 </p>
 
 ---
