@@ -108,7 +108,7 @@ Imagine que o observador $\bar{O}$ está se movendo para a direita com uma veloc
 
 Para descobrir onde o evento $\mathcal{B}$ está no gráfico de $O$, precisamos cruzar a linha do eixo $\bar{t}$ com a hipérbole invariante. Graficamente, supondo as coordenadas aproximadas de $t \approx 1.15$ e $x \approx 0.58$ no referencial $O$.
 
-### A Armadilha da Intuição Euclidiana
+### A Armadilha da Intuição Euclidiana:
 
 Agora, se você olhar para o gráfico e usar a intuição euclidiana (como se estivesse medindo com uma régua no papel), a distância do evento $\mathcal{B}$ até a origem será:
 
