@@ -146,7 +146,7 @@ Por fim, uma propriedade importante das hipérboles para deduzir a dilatação d
   <img src="figura-1-12.gif" alt="Figura 1.12 do Schutz: A Tangente à Hipérbole como Linha de Simultaneidade" width="800">
 </p>
 
-Assim, no espaço-tempo de Minkowisk, a régua que deve ser usada é o intervalo invariante $\Delta s^2$ e o que permite calibrar os eixos é a hipérbole!
+Assim, no espaço-tempo de Minkowsk, a régua que deve ser usada é o intervalo invariante $\Delta s^2$ e o que permite calibrar os eixos é a hipérbole!
 
 <p align="center">
   <img src="figura-1-8-v2.gif" alt="Figura 1.8 do Schutz: Hipérboloides no Evento A" width="350">
