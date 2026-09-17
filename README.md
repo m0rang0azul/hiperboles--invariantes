@@ -1,6 +1,6 @@
 # Geometria das Hipérboles Invariantes e Calibração de Eixos
  
-*Seções 1.7 de Bernard Schutz: a régua geométrica que faltava.
+*Seções 1.7 de Bernard Schutz: a régua geométrica que faltava, $\Delta s^2$.
  
 > **Antes de começar:** este post é a continuação de [Invariância do Intervalo](https://github.com/m0rang0azul/invariancia-do-intervalo), onde vimos que $\Delta s^2 = \Delta \bar s^2$ para qualquer par de eventos, em qualquer referencial inercial. Aqui usamos essa invariância para, finalmente, calibrar os eixos inclinados $\bar t, \bar x$ que construímos em [Geometria do Espaço-Tempo](https://github.com/m0rang0azul/Relatividade-Geral---Diagrama-de-Minkowski).
 
@@ -146,7 +146,7 @@ Por fim, uma propriedade importante das hipérboles para deduzir a dilatação d
   <img src="figura-1-12.gif" alt="Figura 1.12 do Schutz: A Tangente à Hipérbole como Linha de Simultaneidade" width="800">
 </p>
 
-
+Assim, no espaço-tempo de Minkowisk, a régua que deve ser usada é o intervalo invariante $\Delta s^2$ e o que permite calibrar os eixos é a hipérbole!
 
 <p align="center">
   <img src="figura-1-8-v2.gif" alt="Figura 1.8 do Schutz: Hipérboloides no Evento A" width="350">
